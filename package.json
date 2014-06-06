@@ -14,5 +14,8 @@
     "licenses": [
         { "type": "BSD" }
     ],
-    "main": "./lib/zlib"
+    "main": "./lib/zlib",
+    "dependencies": {
+        "node-gyp": "*"
+    }
 }
