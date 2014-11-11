@@ -1,3 +1,4 @@
+#http://stackoverflow.com/questions/18464150/how-to-convert-node-waf-wscript-to-node-gyp-binding-gyp
 import os
 import Options
 from os.path import exists
